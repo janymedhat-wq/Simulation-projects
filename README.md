@@ -1,7 +1,7 @@
 # Rayleigh-Bénard Convection (2D) Simulation in Julia
 
 ![Rayleigh-Bénard 2D Simulation](RayleighBenard2D.gif)
-![Half-Wave 3rd antenna Design](Gif.png)
+![Half-Wave 3rd antenna Design](gif.png)
 
 ## Overview
 
